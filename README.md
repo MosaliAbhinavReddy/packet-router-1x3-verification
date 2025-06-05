@@ -53,6 +53,6 @@ cd code/tb/
 	•	router_report.pdf: Detailed architecture, protocol, FSM, and simulation results
 	•	Includes design decisions, error handling, and coverage of critical corner cases
 
-👨‍💻 Author
+
 
 Abhinav Reddy Mosali
